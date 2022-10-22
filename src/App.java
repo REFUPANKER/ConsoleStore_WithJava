@@ -7,7 +7,7 @@ public class App {
         lobby.ScanAndRun();
     }
     static void Intro(){
-        cwl("Wellcome Patika Store ");
+        cwl("Wellcome Console Store ");
         cwl("App started ...");
     }
 
