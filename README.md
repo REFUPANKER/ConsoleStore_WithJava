@@ -1,5 +1,5 @@
-# ConsoleStore_WithCSharp
-ConsoleStore with Csharp , for PatikaDev (Java102-PatikaStore Clone => ConsoleStore)
+# ConsoleStore_WithJava
+ConsoleStore with Java , for PatikaDev (Java102-PatikaStore Clone => ConsoleStore)
 
 App -> Starts > Lobby  
 Lobby > Move to Brands  
