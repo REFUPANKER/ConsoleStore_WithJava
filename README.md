@@ -16,11 +16,17 @@ Brand > Move to Products
 <img src="https://user-images.githubusercontent.com/68808212/197336436-b3e42220-ddab-468b-a0a5-4b95ed0246ba.png" width="500" height="300" align="left"/>
 <img src="https://user-images.githubusercontent.com/68808212/197336478-95f87873-9181-459b-9973-df58ae3adddd.png" width="300" height="50" />
 </div>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
+## How it works?
 
+<div>
+<img src="https://user-images.githubusercontent.com/68808212/197351189-6b86cb3a-f059-4c0a-9f06-46323b5d49ff.png" width="500" height="250" align="left"/>
+</div>
 
-
+All Brands / Products have ScanAndRun Method for getting user input and process the input.  
+So we can easily manage User Input.
 
 
 
